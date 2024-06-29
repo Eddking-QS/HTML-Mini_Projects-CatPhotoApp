@@ -15,6 +15,10 @@ This is a simple cat page made with only HTML.
 -   Radio buttons
 -   Checkboxes
 
+## Live Demo
+
+[CatPhotoApp](https://eddking-qs.github.io/HTML-Mini_Projects-CatPhotoApp/)
+
 ## Disclaimer
 
 -   No responsive design
