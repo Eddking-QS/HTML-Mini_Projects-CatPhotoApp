@@ -1,7 +1,5 @@
 # HTML-Mini_Projects-CatPhotoApp
 
-Simply cat page made with only HTML
-
 ## Description
 
 This is a simple cat page made with only HTML.
