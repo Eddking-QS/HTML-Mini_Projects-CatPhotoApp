@@ -17,7 +17,7 @@ This is a simple cat page made with only HTML.
 
 ## Live Demo
 
-[CatPhotoApp](https://quintin-dev.github.io/HTML-Mini_Projects-CatPhotoApp/)
+[CatPhotoApp](https://eddking-qs.github.io/HTML-Mini_Projects-CatPhotoApp/)
 
 ## Disclaimer
 
