@@ -1,4 +1,4 @@
-# HTML-Mini_Projects-CatPhotoApp
+# HTML Mini Projects - CatPhotoApp
 
 ## Description
 
